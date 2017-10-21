@@ -38,6 +38,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Adds support for Capybara system testing and selenium driver
   gem "paperclip", "~> 5.0.0"
+  gem 'simple_form'
   gem 'rspec-rails', '~> 3.6'
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
