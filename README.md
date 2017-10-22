@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+/Instagram/
 
-Things you may want to cover:
+- To run, use the command in your terminal: rails server
+- You will want to connect to localhost:3000
+- Run rake routes to see the routes in order to navigate around application.
+- This application is still in testing
 
-* Ruby version
+/What can we do on it?/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- You can Sign Up
+- You can Sign In
+- You can post photos
+- You can comment on photos
