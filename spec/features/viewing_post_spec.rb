@@ -1,9 +1,9 @@
-# feature "visiting the page to create a post" do
-#   scenario "it has a caption and image upload to create new post" do
-#     createpost
-#     expect(page).to have_css("img[src*='/system/posts/images/000/000/002/medium/doggy.jpg?1508599664']")
-#   end
-# end
+feature "visiting the page to create a post" do
+  scenario "it has a caption and image upload to create new post" do
+    createpost
+    expect(page).to have_css("img[src*='doggy.jpg']")
+  end
+end
 
 def createpost
   caption = "Doggy Adventure "

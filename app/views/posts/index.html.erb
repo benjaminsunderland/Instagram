@@ -9,9 +9,13 @@
   <div class="container-fluid">
     <div class="row">
        <% @post.each do |post| %>
-      <div class="col-sm-12 col-md-6">
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="panel panel-info">
         <%= post.caption %>
-        <%= image_tag post.image.url(:medium), class: "img-responsive" %>
+        </div>
+       <a href="#" class="thumbnail">
+        <%= image_tag post.image.url(:medium)%>
+       </a>
       </div>
         <% end %>
   </div>
