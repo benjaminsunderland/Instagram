@@ -14,7 +14,7 @@
         <%= post.caption %>
         </div>
        <a href="#" class="thumbnail">
-        <%= image_tag post.image.url(:medium)%>
+      <%= image_tag post.image_url.to_s %>
        </a>
       </div>
         <% end %>
