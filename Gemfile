@@ -36,10 +36,14 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   # Adds support for Capybara system testing and selenium driver
+  gem 'jquery-rails'
+  gem 'sass-rails', '~> 5.0'
   gem 'bootstrap-sass', '~> 3.2.0'
+  gem 'autoprefixer-rails'
   gem 'capybara', '~> 2.13'
   gem 'carrierwave', '~> 1.0'
   gem 'devise'
+  gem 'simplecov', :require => false, :group => :test
   gem 'mini_magick'
   gem 'rspec-rails', '~> 3.6'
   gem 'rubocop', '0.48.1'

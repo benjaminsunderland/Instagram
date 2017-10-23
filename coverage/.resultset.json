@@ -1,0 +1,183 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/helpers/comments_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/helpers/posts_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/controllers/comments_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/controllers/posts_controller.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        6,
+        null,
+        null,
+        1,
+        6,
+        null,
+        6,
+        6,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        10,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        7,
+        null,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/models/comment.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/models/post.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/uploaders/image_uploader.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        22,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        14,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/benjamin/Desktop/Makers/WeekEight/Instagram/instagram/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1508754419
+  }
+}
